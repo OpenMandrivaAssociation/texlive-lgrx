@@ -7,7 +7,7 @@
 Name:		texlive-lgrx
 Epoch:		1
 Version:	0.6
-Release:	11
+Release:	12
 Summary:	Greek text with the LGR font encoding
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lgrx
