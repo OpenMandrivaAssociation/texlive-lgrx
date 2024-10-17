@@ -10,7 +10,7 @@ Version:	0.6
 Release:	13
 Summary:	Greek text with the LGR font encoding
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lgrx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lgrx
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lgrx.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lgrx.doc.tar.xz
